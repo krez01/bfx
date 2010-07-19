@@ -1,0 +1,105 @@
+Here is a complete listing of all BML used with the BNSQ and Blizzard Forums.
+
+= ExtendedBML =
+Items wrapped in ((double parentheses)) indicate optional parameters. The exBML parser is extremely forgiving, so you are generally safe using the syntax you have already learned for other forums.
+
+  * *Preformatted Text*
+{{{
+[pre](text)[/pre]
+}}}
+
+  * *Strikethrough*
+{{{
+[strike](text)[/strike]
+[s](text)[/s]
+}}}
+
+  * *Blink*
+{{{
+[blink](text)[/blink]
+}}}
+
+  * *Color/Colour*
+{{{
+[color=(color)](text)[/color]
+[colour=(colour)](text)[/colour]
+}}}
+
+  * *Hyperlink*
+{{{
+[url=(URL)]((text))[/url]
+[url](URL)[/url]
+}}}
+
+  * *Image*
+{{{
+[img=(URL)]((hover text))[/img]
+[img](URL)[/img]
+}}}
+
+  * *Horizontal Line Rule*
+{{{
+[hr]
+}}}
+
+  * *BFXVersion*
+{{{
+[bfxversion=((version number to compare to))]
+[bfxversion]
+}}}
+
+  * *NoParse*
+{{{
+[noparse](exBML you do not want to be parsed)[/noparse]
+}}}
+
+  * *Donate*
+{{{
+[donatemaged]
+}}}
+
+  * *BML Aliases*
+{{{
+[bold](text)[/bold]
+[italics](text)[/italics]
+[underline](text)[/underline]
+[listitem](item)[/listitem]
+[list](item)[/list]
+}}}
+
+----
+
+= BML =
+This is the original BML already found in the Blizzard Forums, which the extendedBML is based off of.
+
+  * *Bold*
+{{{
+[bold](text)[/bold]
+[b](text)[/b]
+}}}
+
+  * *Italics*
+{{{
+[i](text)[/i]
+}}}
+
+  * *Underline*
+{{{
+[u](text)[/u]
+}}}
+
+  * *Quote*
+{{{
+[quote](text)[/quote]
+[quote="(username)" id="(post id)" /](text)
+}}}
+
+  * *Bullet Point (ListItem)*
+{{{
+[li](item)[/li]
+}}}
+
+  * *Tabbed List*
+{{{
+[ul](item)[/ul]
+}}}

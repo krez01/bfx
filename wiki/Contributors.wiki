@@ -1,0 +1,20 @@
+Here is a *complete* list of contributors to the project through it's history. To view the list of current contributors, check the Project's [http://code.google.com/p/bfe/people/list People] page.
+
+==Maged==
+  The Project Manager and sole Developer. Took over the original [http://code.google.com/p/bnsq/ BNSQ] project on October 25th, 2007.
+
+==Sixen==
+  The PR Manager who deals with documentation and information. Joined the team October 8th, 2008.
+
+==PiesOfTheNorth==
+  Provides concepts for future versions. Joined the team July 10th, 2009.
+
+==Ylleks==
+  A Battle.net Warcraft General Discussion Forums regular who began the [http://code.google.com/p/bnsq/wiki/Changelog#BNet_Squelcher_%28Pre-Maged%29 BNSQ] Project back in 2007 and handed it over to Maged.
+
+==Errol Elumir==
+  An old Battle.net Fan Fiction Forums regular who began a project called the [http://code.google.com/p/bnsq/wiki/Changelog#Blizzard_Forums Blizzard Forums KillFile] back in 2005, which started it all. The BFKF was merged into the BNet Squelcher in version 0.9.1.
+
+===Special Thanks===
+ The following people have reported bugs/suggestions in the past:
+  * N/A

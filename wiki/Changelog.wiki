@@ -1,0 +1,9 @@
+Key:
+  +Added/Enhanced<br>
+  -Removed/Fixed<br>
+  `*`Backend/Misc<br>
+
+=Version 0=
+
+  ===Version 0.0 (July 15th, 2010)===
+    `*`Misc: Work has begun on the BFX.<br />

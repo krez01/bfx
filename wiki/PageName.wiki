@@ -91,10 +91,10 @@ This is the original BML already found in the Blizzard Forums, which the extende
   * *Quote*
 {{{
 [quote](text)[/quote]
-[quote="(username)" id="(post id)" /](text)
+[quote=`"`(username)`"` id=`"`(post id)`"` /](text)
 }}}
 
-  * *Bullet Point (ListItem)*
+  * *List Item*
 {{{
 [li](item)[/li]
 }}}

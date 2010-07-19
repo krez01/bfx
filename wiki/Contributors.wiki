@@ -1,4 +1,4 @@
-Here is a *complete* list of contributors to the project through it's history. To view the list of current contributors, check the Project's [http://code.google.com/p/bfe/people/list People] page.
+Here is a *complete* list of contributors to the project through it's history. To view the list of current contributors, check the Project's [http://code.google.com/p/bfx/people/list People] page.
 
 ==Maged==
   The Project Manager and sole Developer. Took over the original [http://code.google.com/p/bnsq/ BNSQ] project on October 25th, 2007.

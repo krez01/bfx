@@ -4,7 +4,7 @@ Here is a *complete* list of contributors to the project through it's history. T
   The Project Manager and sole Developer. Took over the original [http://code.google.com/p/bnsq/ BNSQ] project on October 25th, 2007.
 
 ==Sixen==
-  The PR Manager who deals with documentation and information. Joined the team October 8th, 2008.
+  The PR Manager who deals with documentation and information. Joined the team October 8th, 2008. As of the BFX, also assists in Development.
 
 ==PiesOfTheNorth==
   Provides concepts for future versions. Joined the team July 10th, 2009.

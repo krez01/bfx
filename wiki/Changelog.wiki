@@ -6,4 +6,4 @@ Key:
 =Version 0=
 
   ===Version 0.0 (July 15th, 2010)===
-    `*`Misc: Work has begun on the BFX.<br />
+    `*`Misc: Brainstorming and minor back-end work has begun on the BFX.<br />

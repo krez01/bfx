@@ -1,0 +1,81 @@
+This is the current plan for the backend API of BFX. Similar to how BNSQ exBML made making new BML tags easier, this will make overall development easier.
+
+Thread Object:
+
+thread.subject
+string
+gets and sets the threads subject
+
+thread.author (read-only)
+string
+same as thread.post[0].author iff thread.post[0].number == 1
+may not be defined
+
+thread.sticky
+bool
+
+thread.blue (read-only)
+bool
+
+thread.firstblue
+int
+post number of the first Blizzard post
+
+thread.pages
+int
+returns the number of pages
+
+thread.currentpage
+int
+the current page number
+
+thread.id (read-only)
+int
+the thread id from the URL
+
+thread.post
+post object
+
+Post Object:
+
+post.bml
+string
+gets and sets the post's bml by converting to/from html
+
+post.author
+user object
+
+post.flags
+int
+0: regular post
+1: BFX staff
+2: MVP
+3: Blizzard
+
+post.edited
+bool
+
+post.editedby
+string
+
+post.editedat
+date
+
+post.creationtime
+date
+
+post.nextblizz
+int
+post number of the next Blizzard post
+
+post.id
+int
+
+post.number
+int
+
+User Object:
+(still working on this)
+
+user.usertitle
+string

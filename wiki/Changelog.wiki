@@ -7,3 +7,14 @@ Key:
 
   ===Version 0.0 (July 15th, 2010)===
     `*`Misc: Brainstorming and minor back-end work has begun on the BFX.<br />
+
+----
+
+=Pre-BFX=
+  ==Blizzard Forums Helper==
+  This is a GreaseMonkey script that was created by [http://code.google.com/p/bfx/wiki/Contributors#Sixen Sixen].
+    ===Version 0.2 (December 10th, 2010)===
+      +Enhanced: Signature implementation finalized<br>
+    ===Version 0.1 (August 9th, 2010)===
+      +Added: Early implementation of signatures<br>
+      +Enhanced: Extended default search function

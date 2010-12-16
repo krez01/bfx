@@ -3,11 +3,6 @@ Here is a complete listing of all BML used with the BFX and Blizzard Forums.
 = ExtendedBML =
 Items wrapped in ((double parentheses)) indicate optional parameters. The exBML parser is extremely forgiving, so you are generally safe using the syntax you have already learned for other forums.
 
-  * *Preformatted Text*
-{{{
-[pre](text)[/pre]
-}}}
-
   * *Strikethrough*
 {{{
 [strike](text)[/strike]
@@ -63,6 +58,7 @@ Items wrapped in ((double parentheses)) indicate optional parameters. The exBML 
 [bold](text)[/bold]
 [italics](text)[/italics]
 [underline](text)[/underline]
+[pre](text[/pre]
 [listitem](item)[/listitem]
 [list](item)[/list]
 }}}
@@ -88,10 +84,20 @@ This is the original BML already found in the Blizzard Forums, which the extende
 [u](text)[/u]
 }}}
 
+  * *Preformatted Text*
+{{{
+[code](text)[/code]
+}}}
+
+  * *Item Link*
+{{{
+[item="(item id)" /]
+}}}
+
   * *Quote*
 {{{
 [quote](text)[/quote]
-[quote="(username)" id="(post id)" /](text)
+[quote="(post id)"](text)[/quote]
 }}}
 
   * *List Item*

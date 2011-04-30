@@ -1,5 +1,5 @@
 = WoW Website API =
-Currently, other than Realm Status, there are only plans for character profiles, guild profiles, arena team profiles and auction house data dumps.
+This is an official Blizzard API. View the [http://us.battle.net/wow/en/forum/2626217/ World of Warcraft Community Platform API Forums] for more information and assistance. Currently, other than Realm Status, there are only plans for character profiles, guild profiles, arena team profiles and auction house data dumps.
 
 == [http://us.battle.net/wow/en/forum/topic/2369741469 Realm Status API] ==
 The list of realms is presented as an array of objects. Each object has the following properties:

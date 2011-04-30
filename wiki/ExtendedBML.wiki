@@ -58,7 +58,7 @@ Items wrapped in ((double parentheses)) indicate optional parameters. The exBML 
 [bold](text)[/bold]
 [italics](text)[/italics]
 [underline](text)[/underline]
-[pre](text[/pre]
+[pre](text)[/pre]
 [listitem](item)[/listitem]
 [list](item)[/list]
 }}}

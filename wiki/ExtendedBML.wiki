@@ -14,10 +14,9 @@ Items wrapped in ((double parentheses)) indicate optional parameters. The exBML 
 [blink](text)[/blink]
 }}}
 
-  * *Color/Colour*
+  * *Spoiler*
 {{{
-[color=(color)](text)[/color]
-[colour=(colour)](text)[/colour]
+[spoiler]((text))[/spoiler]
 }}}
 
   * *Hyperlink*

@@ -15,8 +15,6 @@ Key:
     `*`Added support for [rand] tag. Usage: [rand]Possible Sentence One%Possible Sentence Two%Possible Sentence Three[/rand]. You can have as many choices in there as you want, just separate them with %.
     `*`Added new option "Gracefully degrade exBML when posting", since that module is needed to pre-process the rand tag before the post is submitted.
 
-
-
   ===Version 0.6.1 (June 10th, 2013)===
     `*`Fixed the size of the text box for the source button on the D3 forum. It's also a little wider everywhere else.
     `*`Upgraded BFX for the new forum
@@ -41,9 +39,20 @@ Key:
 
 =Pre-BFX=
   ==Blizzard Forums Helper==
-  This is a GreaseMonkey script that was created by [http://code.google.com/p/bfx/wiki/Contributors#Sixen Sixen].
+  This is a GreaseMonkey script that was created by [http://code.google.com/p/bfx/wiki/Contributors#Sixen Sixen], which preceded the BFX.
+
+    ===Version 0.4 (November 18th, 2011)===
+      +Added some HTML bug fixes for the forums.
+
+    ===Version 0.3 (August 23rd, 2011)===
+      +Added Diablo 3 Forum Support.
+
+    ===Version 0.2.1 (July 7th, 2011)===
+      +More efficient signature code & quotes.
+
     ===Version 0.2 (December 10th, 2010)===
-      +Enhanced: Signature implementation finalized<br>
+      +Enhanced: Signature implementation finalized
+
     ===Version 0.1 (August 9th, 2010)===
-      +Added: Early implementation of signatures<br>
+      +Added: Early implementation of signatures
       +Enhanced: Extended default search function

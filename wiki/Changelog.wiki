@@ -5,6 +5,35 @@ Key:
 
 =Version 0=
 
+  ===Version 0.7.1 (March 11th, 2014)===
+   `*`Changed variable names so that Firefox doesn't complain.
+   `*`Made it so that the text box you get when you click "Source" is enabled, since apparently you otherwise can't select the text in it...
+
+  ===Version 0.7.0 (March 10th, 2014)===
+    `*`Added support for item tags.
+    `*`Ported the extendedBML (aka exBML) parser over from BNetSquelcher because I...
+    `*`Added support for [rand] tag. Usage: [rand]Possible Sentence One%Possible Sentence Two%Possible Sentence Three[/rand]. You can have as many choices in there as you want, just separate them with %.
+    `*`Added new option "Gracefully degrade exBML when posting", since that module is needed to pre-process the rand tag before the post is submitted.
+
+
+
+  ===Version 0.6.1 (June 10th, 2013)===
+    `*`Fixed the size of the text box for the source button on the D3 forum. It's also a little wider everywhere else.
+    `*`Upgraded BFX for the new forum
+
+  ===Version 0.6.0 (February 1st, 2013)===
+    `*`Refactored some code that was origially hacked in to BML can now handle [url] tags
+    `*`Added option to continue striping out [url] tags, since non-Blizzard people can't use them anyway.
+    `*`Fixed options not showing save or reset buttons right after posting
+    `*`Upgraded BFX for the new forum
+
+  ===Version 0.5.0 (September 6th, 2012)===
+    `*`Custom signatures
+    `*`View BML source of posts (even locked posts)
+    `*`Locally generated quotes (so you don't have to wait after hitting the quote button)
+    `*`BFX Options button by the current "log out" button
+    `*`Support link for BFX added to the Support dropdown
+
   ===Version 0.0 (July 15th, 2010)===
     `*`Misc: Brainstorming and minor back-end work has begun on the BFX.<br />
 
